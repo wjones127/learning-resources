@@ -22,3 +22,11 @@ Often I come across helpful articles, videos, books, and other materials that he
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.80kaf0cz7) by Samantha Zhang
 - [Tool: Colorpicker for Data](http://tristen.ca/hcl-picker/#/hlc/7/1/06231E/D87B5B)
 - [The Viridis Color Palettes](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) by Bob Rudis, Noam Ross and Simon Garnier
+
+
+## Web Programming
+
+### JavaScript
+
+- [Talk: What the heck is the event loop anyways?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts
+- [Eloquent Javascript](http://eloquentjavascript.net/) by Marijn Haverbeke
