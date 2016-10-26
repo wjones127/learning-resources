@@ -15,6 +15,7 @@ Often I come across helpful articles, videos, books, and other materials that he
 - [Book: Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) by Cosma Rohilla Shalizi
 - [Book: Data Analysis Using Regression and Multilevel/Hierarchical Modeling](https://www.amazon.com/Analysis-Regression-Multilevel-Hierarchical-Models/dp/052168689X) by Andrew Gelman and Jennifer Hill
 - [Lectures: Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z) by Richard McElreath (There is also a book)
+- [Book: Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 
 ### Communication
 
@@ -30,3 +31,8 @@ Often I come across helpful articles, videos, books, and other materials that he
 
 - [Talk: What the heck is the event loop anyways?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts
 - [Eloquent Javascript](http://eloquentjavascript.net/) by Marijn Haverbeke
+
+## Writing
+
+- [Book: On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/00608915480) by William Zinsser
+- [The Litigation Articles](http://georgegopen.com/articles/litigation/) by George D. Gopen
